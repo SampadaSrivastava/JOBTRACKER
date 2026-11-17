@@ -155,10 +155,4 @@ npm run dev
 
 App runs at `http://localhost:5173`
 
----
 
-## Author
-
-**Noam Cohen**  
-B.Sc. Computer Science — Ariel University  
-[LinkedIn](https://www.linkedin.com/in/noam-cohen-a7802b275/) | [GitHub](https://github.com/NoamCohen12)
